@@ -1,0 +1,13 @@
+Layouts:
+- Default
+- Post
+
+
+
+Includes:
+- Head Section
+- Header
+- Footer 
+- Post List (latest)
+- Most viewed posts OR Big Stories (handle this with a favourite tag in the front matter)
+- 
