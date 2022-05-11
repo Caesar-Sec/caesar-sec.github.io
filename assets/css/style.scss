@@ -1,0 +1,18 @@
+---
+---
+
+@import "theme";
+
+
+// Textures
+.dark-out {
+    background-color: $headerGray;
+
+    h1 {
+        color: $orange;
+        margin-top: 70px;
+    }
+    h2 {
+        color: $lightGray;
+    }
+}
