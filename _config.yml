@@ -16,11 +16,13 @@ sass:
 permalink: /posts/:title/
 texture:
   title: CaesarSec
-  tagline: Technology, Cybersecurity and Crypto.
+  tagline: Technology, Cybersecurity and Life
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
   navigation:
+  - title: Home
+    url: "/"
   - title: Post List
     url: "/posts"
   - title: About

@@ -325,7 +325,7 @@ green     #859900  operators, other keywords
 .highlight .il { color: #2aa198; }
 
 /* Literal.Number.Integer.Long */
-div.highlighter-rouge { width: 100vw; position: relative; right: 150px; margin: 40px 0; }
+div.highlighter-rouge { margin: 40px 0; }
 
 div.highlight { padding: 30px 150px; }
 
@@ -389,15 +389,13 @@ header .social li i:hover { color: #eee; }
 
 .container { margin: 0 25%; max-width: 820px; }
 
-.container div.highlighter-rouge { right: 150px; }
+@media screen and (max-width: 540px) { .container { margin: 0 15px; } .container div.highlight { padding: 30px 15px; } }
 
-@media screen and (max-width: 540px) { .container { margin: 0 15px; } .container div.highlighter-rouge { right: 15px; } .container div.highlight { padding: 30px 15px; } }
+@media screen and (max-width: 768px) and (min-width: 540px) { .container { margin: 0 40px; } .container div.highlight { padding: 30px 40px; } }
 
-@media screen and (max-width: 768px) and (min-width: 540px) { .container { margin: 0 40px; } .container div.highlighter-rouge { right: 40px; } .container div.highlight { padding: 30px 40px; } }
+@media screen and (max-width: 1024px) and (min-width: 768px) { .container { margin: 0 80px; } .container div.highlight { padding: 30px 80px; } }
 
-@media screen and (max-width: 1024px) and (min-width: 768px) { .container { margin: 0 80px; } .container div.highlighter-rouge { right: 80px; } .container div.highlight { padding: 30px 80px; } }
-
-@media screen and (min-width: 1024px) and (max-width: 1280px) { .container { margin: 0 100px; } .container div.highlighter-rouge { right: 100px; } .container div.highlight { padding: 30px 100px; } }
+@media screen and (min-width: 1024px) and (max-width: 1280px) { .container { margin: 0 100px; } .container div.highlight { padding: 30px 100px; } }
 
 .post-title { color: #eee; transition: color .3s ease; margin: .1em 0; }
 

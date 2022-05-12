@@ -1,8 +1,6 @@
 Page Changes:
 - General
     - Update the subtitle in the nav section
-    - Consider if the title of the blog
-    - Create an icon/logo
 
 - Index
     - Clean up or rewrite the intro at the top of the index page
@@ -10,25 +8,6 @@ Page Changes:
         - Max number of posts allowed (4-5 posts Max at a time)
         - Work from a driver file (figure this set out) OR alternately there is a plugin to do this based on page views
 
-
-- About
-    - Add content to the about page
-        - About me
-        - Interests
-        - Projects
-        - The blog
-        - etc
-
-- Post List
-    - Consider adding an image to accompany posts on the post list page (leaning towards no on this)
-
-
-
-=======================================================================
-CSS Changes:
-
-- Sort out code block colouring
-    - most of this is found in ext/solarized-light and _syntax
 
 
 =======================================================================

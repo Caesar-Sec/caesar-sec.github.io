@@ -11,25 +11,6 @@ Page Changes:
         - Work from a driver file (figure this set out) OR alternately there is a plugin to do this based on page views
 
 
-- About
-    - Add content to the about page
-        - About me
-        - Interests
-        - Projects
-        - The blog
-        - etc
-
-- Post List
-    - Consider adding an image to accompany posts on the post list page (leaning towards no on this)
-
-
-
-=======================================================================
-CSS Changes:
-
-- Sort out code block colouring
-    - most of this is found in ext/solarized-light and _syntax
-
 
 =======================================================================
 Items to complete:
