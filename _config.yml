@@ -1,6 +1,6 @@
 title: CaesarSec
 author: Lyle Irvine
-email: lyleirvine72@gmail.com
+email: lyleirvine70@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   A personal blog focusing on technology and cybersecurity, with the chance of veering off into self-improvement and life.
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -31,7 +31,7 @@ texture:
   social_links:
     twitter: caesarsec_
     github:  caesar-sec
-    email: lyleirvine72@gmail.com
+    email: lyleirvine70@gmail.com
     rss: rss
  
 
