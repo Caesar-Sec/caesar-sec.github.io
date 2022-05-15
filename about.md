@@ -2,11 +2,9 @@
 layout: page
 ---
 
-My name is Lyle, I'm currently a final year university student studying Cyber Security and Networks. I hail from and still live in Scotland, the land of Kilts, Red Heads and Whiskey. The inception of this blog originally started as a way of sharing: what I have learned, what I am currently learning and highlighting topics I have an interest in. In the somewhat short 2-3 week period of time it took to have this blog ready, that idea had shifted somewhat.
+My name is Lyle, I'm currently a final year university student studying Cyber Security and Networks. I hail from Scotland, the land of Kilts, Red Heads and Whiskey. The inception of this blog originally started as a way of sharing: what I have learned, what I am currently learning and to forther develop my knowledge. In the short time it took to have this blog ready, that idea had changed.
 
-While the core ideas still stands, I want to share, the scope of what that goal became wider and wider the more I pondered it. So this won't be solely a technology blog, from time to time I plan on sprinkling in some other content about my thoughts, philosophy and life. While technology is great, i've spent the last 4 years studying different areas of it and my career for the foreseeable future will more than likely revolve around it. It's important to keep in mind that it is not everything. There is a whole world out there of people, ideas and experiances to be had.
-
-**What I'm essentially trying to say is standup, go outside and touch grass.**
+While the core ideas still stands, I want to learn and share that knowledge. The scope of that goal became wider and wider the more I considered it. So this won't be solely a technology blog, from time to time I plan on sprinkling in some other content about my thoughts, philosophy and life. While technology is great, i've spent the last 4 years studying different areas of it and my career for the foreseeable future will more than likely revolve around it. It's important to keep in mind that it is not everything, there are so many experiances to have and ideas to explore. So every now and then remember to go outside and touch some grass.
 <br><br>
 
 ### Interests
