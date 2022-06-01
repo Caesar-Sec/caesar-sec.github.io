@@ -103,7 +103,7 @@ td, th { padding: 0; }
 
 img, embed, object, video { max-width: 100%; }
 
-main { overflow-x: hidden; }
+main { overflow-x: hidden; margin-bottom: 2em; }
 
 /* Solarized Light 
 For use with Jekyll and Pygments
